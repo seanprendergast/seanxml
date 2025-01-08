@@ -2,6 +2,7 @@
 <publisher/>
 <publisherurl/>
 <lastBuildDate/>
+<jobs>
     <job>
         <company>
         <![CDATA[ System Transport ]]>
@@ -570,4 +571,5 @@
         <![CDATA[ 0 ]]>
         </radius>
     </job>
+</jobs>
 </source>
